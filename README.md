@@ -1,17 +1,17 @@
 Hi there, I'm Juan Evangelista! Welcome 👋
 ##
 
-🔭 I am currently studying and improving myself in the languages, HTML, SCSS, Javascript, React, in order to learn as much as possible and become a skilled professional to help others.
+🔭 Currently, I am focused on studying and enhancing my skills in several programming languages, such as HTML, CSS, JavaScript, React, and TypeScript. My objective is to acquire as much knowledge as possible and become an expert in these areas, so that I can become a reference as a professional and also contribute to the professional growth of others.
 
 ⭐ I'am from Brazil, and born and raised in Salvador - Bahia.
 
 🌱 Be green and save the animals!
 
-⚡ Fun fact: I love my cat, and my dogs!
+⚡ Fun fact: I love going to the soccer stadium and I love animals !
 
 💻 What I don't know, I learn fast =)
 
-🎯 Focused in React and Typescript.
+🎯 Focused in Front-end React and Typescript.
 
 
 
