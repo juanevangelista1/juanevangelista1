@@ -1,62 +1,60 @@
 # Juan Evangelista - Front-end Developer with Focus, Commitment, and Resilience
 
-## Hi there, I'm Juan Evangelista! Welcome 👋
+## Welcome 👋
 
 ### 🌍 About Me
-- **Origin:** Born and raised in Salvador, Bahia, Brazil.
-- **Passion:** Enthusiastic about front-end development and continuous learning.
-- **Philosophy:** "Always be the best version of yourself!"
+- **From:** Salvador, Bahia, Brazil
+- **Passionate About:** Front-end development and continuous learning
+- **Motto:** "Always be the best version of yourself!"
 
 ### 💼 Professional Focus
-- **Front-end Specialization:** Proficient in **React**, **TypeScript**, **Next.js**, **HTML**, and **CSS**.
-- **Continuous Improvement:** Currently enhancing my skills in programming languages and frameworks to become an expert and help others grow.
+- **Specialization:** Front-end development with **React**, **TypeScript**, **Next.js**, **HTML**, and **CSS**
+- **Learning:** Constantly improving my skills to become an expert and mentor
 
 ### 🚀 Key Skills
-- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, React, Next.js.
-- **Frameworks & Tools:** Node.js, SASS, Git, Bitbucket.
-- **Methodologies:** Agile (Scrum), scalable architecture implementation.
-- **Soft Skills:** Resilience, clear communication, strategic problem-solving, proactivity.
+- **Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, SASS
+- **Tools:** GitLab, Bitbucket
+- **Methodologies:** Agile (Scrum), scalable architecture
+- **Soft Skills:** Resilience, clear communication, problem-solving, proactivity
 
 ### 💡 Personal Traits
-- **Learning Ability:** Quick learner with a passion for acquiring new skills.
-- **Team Collaboration:** Committed to team growth and success.
-- **Interests:** Soccer, animals, and technology.
+- **Quick Learner:** Eager to acquire new skills
+- **Team Player:** Committed to team success
+- **Hobbies:** Soccer, animals, and technology
 
 ### 🎯 Career Goals
-- Seeking stimulating challenges and opportunities for professional growth.
-- Ready to contribute effectively to a dynamic team environment.
+- Seeking exciting challenges and growth opportunities
+- Ready to contribute effectively to a dynamic team
 
 ---
 
 # Juan Evangelista - Desenvolvedor Front-end com Foco, Compromisso e Resiliência
 
-## Olá! Sou Juan Evangelista, bem-vindo 👋
+## Seja bem-vindo 👋
 
 ### 🌍 Sobre Mim
-- **Origem:** Nascido e criado em Salvador, Bahia, Brasil.
-- **Paixão:** Apaixonado pelo desenvolvimento front-end e aprendizado contínuo.
-- **Filosofia:** "Seja sempre a sua melhor versão!"
+- **De:** Salvador, Bahia, Brasil
+- **Paixão:** Desenvolvimento front-end e aprendizado contínuo
+- **Lema:** "Seja sempre a sua melhor versão!"
 
 ### 💼 Foco Profissional
-- **Especialização em Front-end:** Proficiente em **React**, **TypeScript**, **Next.js**, **HTML** e **CSS**.
-- **Aprimoramento Contínuo:** Atualmente, aprimorando minhas habilidades em linguagens de programação e frameworks para me tornar um especialista e ajudar no crescimento de outros.
+- **Especialização:** Desenvolvimento front-end com **React**, **TypeScript**, **Next.js**, **HTML** e **CSS**
+- **Aprimoramento:** Sempre melhorando minhas habilidades para me tornar um especialista e mentor
 
 ### 🚀 Principais Habilidades
-- **Linguagens de Programação:** HTML, CSS, JavaScript, TypeScript, React, Next.js.
-- **Frameworks e Ferramentas:** Node.js, SASS, Git, Bitbucket.
-- **Metodologias:** Ágil (Scrum), implementação de arquiteturas escaláveis.
-- **Habilidades Interpessoais:** Resiliência, comunicação clara, resolução estratégica de problemas, proatividade.
+- **Linguagens e Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, SASS
+- **Ferramentas:** GitLab, Bitbucket
+- **Metodologias:** Ágil (Scrum), arquitetura escalável
+- **Habilidades Interpessoais:** Resiliência, comunicação clara, resolução de problemas, proatividade
 
 ### 💡 Traços Pessoais
-- **Capacidade de Aprendizado:** Aprendo rápido e tenho paixão por adquirir novas habilidades.
-- **Colaboração em Equipe:** Comprometido com o crescimento e sucesso da equipe.
-- **Interesses:** Futebol, animais e tecnologia.
+- **Aprendiz Rápido:** Ansioso por adquirir novas habilidades
+- **Trabalho em Equipe:** Comprometido com o sucesso da equipe
+- **Hobbies:** Futebol, animais e tecnologia
 
 ### 🎯 Objetivos de Carreira
-- Buscando desafios estimulantes e oportunidades de crescimento profissional.
-- Pronto para contribuir efetivamente em um ambiente de equipe dinâmico.
-
-
+- Buscando desafios empolgantes e oportunidades de crescimento
+- Pronto para contribuir efetivamente em um time dinâmico
 
 
 <div align="center">
