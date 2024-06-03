@@ -1,17 +1,61 @@
-Hi there, I'm Juan Evangelista! Welcome 👋
-##
+# Juan Evangelista - Front-end Developer with Focus, Commitment, and Resilience
 
-🔭 Currently, I am focused on studying and enhancing my skills in several programming languages, such as HTML, CSS, JavaScript, React, and TypeScript. My objective is to acquire as much knowledge as possible and become an expert in these areas, so that I can become a reference as a professional and also contribute to the professional growth of others.
+## Hi there, I'm Juan Evangelista! Welcome 👋
 
-⭐ I'am from Brazil, and born and raised in Salvador - Bahia.
+### 🌍 About Me
+- **Origin:** Born and raised in Salvador, Bahia, Brazil.
+- **Passion:** Enthusiastic about front-end development and continuous learning.
+- **Philosophy:** "Always be the best version of yourself!"
 
-🌱 Be green and save the animals!
+### 💼 Professional Focus
+- **Front-end Specialization:** Proficient in **React**, **TypeScript**, **Next.js**, **HTML**, and **CSS**.
+- **Continuous Improvement:** Currently enhancing my skills in programming languages and frameworks to become an expert and help others grow.
 
-⚡ Fun fact: I love going to the soccer stadium and I love animals !
+### 🚀 Key Skills
+- **Programming Languages:** HTML, CSS, JavaScript, TypeScript, React, Next.js.
+- **Frameworks & Tools:** Node.js, SASS, GitLab, Bitbucket.
+- **Methodologies:** Agile (Scrum), scalable architecture implementation.
+- **Soft Skills:** Resilience, clear communication, strategic problem-solving, proactivity.
 
-💻 What I don't know, I learn fast =)
+### 💡 Personal Traits
+- **Learning Ability:** Quick learner with a passion for acquiring new skills.
+- **Team Collaboration:** Committed to team growth and success.
+- **Interests:** Soccer, animals, and technology.
 
-🎯 Focused in Front-end React and Typescript.
+### 🎯 Career Goals
+- Seeking stimulating challenges and opportunities for professional growth.
+- Ready to contribute effectively to a dynamic team environment.
+
+---
+
+# Juan Evangelista - Desenvolvedor Front-end com Foco, Compromisso e Resiliência
+
+## Olá! Sou Juan Evangelista, bem-vindo 👋
+
+### 🌍 Sobre Mim
+- **Origem:** Nascido e criado em Salvador, Bahia, Brasil.
+- **Paixão:** Apaixonado pelo desenvolvimento front-end e aprendizado contínuo.
+- **Filosofia:** "Seja sempre a sua melhor versão!"
+
+### 💼 Foco Profissional
+- **Especialização em Front-end:** Proficiente em **React**, **TypeScript**, **Next.js**, **HTML** e **CSS**.
+- **Aprimoramento Contínuo:** Atualmente, aprimorando minhas habilidades em linguagens de programação e frameworks para me tornar um especialista e ajudar no crescimento de outros.
+
+### 🚀 Principais Habilidades
+- **Linguagens de Programação:** HTML, CSS, JavaScript, TypeScript, React, Next.js.
+- **Frameworks e Ferramentas:** Node.js, SASS, GitLab, Bitbucket.
+- **Metodologias:** Ágil (Scrum), implementação de arquiteturas escaláveis.
+- **Habilidades Interpessoais:** Resiliência, comunicação clara, resolução estratégica de problemas, proatividade.
+
+### 💡 Traços Pessoais
+- **Capacidade de Aprendizado:** Aprendo rápido e tenho paixão por adquirir novas habilidades.
+- **Colaboração em Equipe:** Comprometido com o crescimento e sucesso da equipe.
+- **Interesses:** Futebol, animais e tecnologia.
+
+### 🎯 Objetivos de Carreira
+- Buscando desafios estimulantes e oportunidades de crescimento profissional.
+- Pronto para contribuir efetivamente em um ambiente de equipe dinâmico.
+
 
 
 
