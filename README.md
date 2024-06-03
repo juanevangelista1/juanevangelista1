@@ -13,7 +13,7 @@
 
 ### 🚀 Key Skills
 - **Programming Languages:** HTML, CSS, JavaScript, TypeScript, React, Next.js.
-- **Frameworks & Tools:** Node.js, SASS, GitLab, Bitbucket.
+- **Frameworks & Tools:** Node.js, SASS, Git, Bitbucket.
 - **Methodologies:** Agile (Scrum), scalable architecture implementation.
 - **Soft Skills:** Resilience, clear communication, strategic problem-solving, proactivity.
 
@@ -43,7 +43,7 @@
 
 ### 🚀 Principais Habilidades
 - **Linguagens de Programação:** HTML, CSS, JavaScript, TypeScript, React, Next.js.
-- **Frameworks e Ferramentas:** Node.js, SASS, GitLab, Bitbucket.
+- **Frameworks e Ferramentas:** Node.js, SASS, Git, Bitbucket.
 - **Metodologias:** Ágil (Scrum), implementação de arquiteturas escaláveis.
 - **Habilidades Interpessoais:** Resiliência, comunicação clara, resolução estratégica de problemas, proatividade.
 
