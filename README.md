@@ -8,12 +8,12 @@
 - **Motto:** "Always be the best version of yourself!"
 
 ### 💼 Professional Focus
-- **Specialization:** Front-end development with **React**, **TypeScript**, **Next.js**, **HTML**, and **CSS**
+- **Specialization:** Front-end development with **React**, **TypeScript**, **Next.js**, **JavaScript (ES6+)**, **Node.js** and **jQuery**
 - **Learning:** Constantly improving my skills to become an expert and mentor
 
 ### 🚀 Key Skills
-- **Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, SASS
-- **Tools:** GitLab, Bitbucket
+- **Languages & Frameworks:** HTML, CSS, JavaScript (ES6+), jQuery, TypeScript, React, Next.js, Node.js, SASS, Redux / Context API, Jest, React Testing Library, 
+- **Tools:** GitLab, Bitbucket, Git, Github
 - **Methodologies:** Agile (Scrum), scalable architecture
 - **Soft Skills:** Resilience, clear communication, problem-solving, proactivity
 
